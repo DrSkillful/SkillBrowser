@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/github/license/JohnSkill/SkillBrowser)
 ![Activity](https://img.shields.io/github/commit-activity/m/JohnSkill/SkillBrowser)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/623f5de7d3a840949436dfc921864b82)](https://www.codacy.com/gh/JohnSkill/SkillBrowser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JohnSkill/SkillBrowser&amp;utm_campaign=Badge_Grade)
 
 SkillBrowser is a 100% Python based bare-bones, secure browser! It's still in development and there are some features that need to be added!
 
