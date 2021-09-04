@@ -1,4 +1,4 @@
-![logo](https://github.com/JohnSkill/SkillBrowser)
+![logo](https://raw.githubusercontent.com/JohnSkill/SkillBrowser/main/20210904_223039.png)
 
 ![License](https://img.shields.io/github/license/JohnSkill/SkillBrowser)
 ![Activity](https://img.shields.io/github/commit-activity/m/JohnSkill/SkillBrowser)
