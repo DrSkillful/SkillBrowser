@@ -1,4 +1,3 @@
-```python
 # All of the necessary imports
 
 from PyQt5.QtWidgets import *
@@ -137,4 +136,3 @@ app = QApplication(sys.argv)
 app.setApplicationName("Skillbrowser")
 window = MainWindow()
 app.exec_()
-```
