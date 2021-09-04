@@ -18,10 +18,10 @@ To install SkillBrowser, click [here](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC0
 
 Before you run SkillBrowser's source code, you need 2 Python libraries: `PyQt5` and `PyQtWebEngine`
 
-```bash
+```python
 pip install PyQt5
 ```
-```bash
+```python
 pip install PyQtWebEngine
 ```
 ## Things to add
