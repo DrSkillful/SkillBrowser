@@ -23,11 +23,10 @@ pip install PyQt5
 ```python
 pip install PyQtWebEngine
 ```
-## Things to add
-- File downloads
-- ~~Cookies~~ turns out they are saved automatically
-- ~~Homepage~~
-- Bookmarks
+## To-do list
+- ~~Save cookies~~
+- ~~Renovate homepage~~
+- open links in new tab
 
 ## Contributing
 If you want to help in SkillBrowser's development, be free to do so! For major changes, please open an issue first to discuss what you would like to change.
