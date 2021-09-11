@@ -1,5 +1,3 @@
-![logo](https://github.com/JohnSkill/SkillBrowser/blob/main/SkillBrowser.png)
-
 ![License](https://img.shields.io/github/license/JohnSkill/SkillBrowser)
 ![Activity](https://img.shields.io/github/commit-activity/m/JohnSkill/SkillBrowser)
 Check our website out [here!](https://johnskillanimation.wixsite.com/skillbrowser)
