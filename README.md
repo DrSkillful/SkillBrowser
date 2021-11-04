@@ -1,5 +1,4 @@
 ![License](https://img.shields.io/github/license/JohnSkill/SkillBrowser)
-![Activity](https://img.shields.io/github/commit-activity/m/JohnSkill/SkillBrowser)
 Check our website out [here!](https://johnskillanimation.wixsite.com/skillbrowser)
 
 SkillBrowser is a 100% Python based bare-bones, secure browser! It's still in development and there are some features that need to be added!
