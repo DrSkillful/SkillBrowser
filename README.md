@@ -6,9 +6,13 @@ SkillBrowser is a 100% Python based bare-bones, secure browser! It's still in de
 ## Installation
 
 To install SkillBrowser, click one of the mirrors! 
+
 [MEGA.nz mirror](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4) 108mbs
+
 [OneDrive mirror](https://1drv.ms/u/s!AhsvlghXEQaAab_0U3flxRo884I?e=69SmZk) 108mbs
+
 [Google Drive mirror](https://drive.google.com/file/d/1vmWYqs-A5nBgVj__BEaF-Np4_W6Kl2Du/view?usp=sharing) 108mbs
+
 
 ## Useful to know stuff
 
