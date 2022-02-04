@@ -5,10 +5,10 @@ SkillBrowser is a 100% Python based bare-bones, secure browser! It's still in de
 
 ## Installation
 
-To install SkillBrowser, click [here](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4)! MEGA.nz mirror 107mbs
-# OR
-Download it through the repo! All you have to do is go up to the files and download this file!
-![image](https://user-images.githubusercontent.com/76279774/134656948-ffc94a40-a5a1-4eb4-9b7c-6a859ff42f7b.png)
+To install SkillBrowser, click one of the mirrors! 
+[MEGA.nz mirror](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4) 108mbs
+[OneDrive mirror](https://1drv.ms/u/s!AhsvlghXEQaAab_0U3flxRo884I?e=69SmZk) 108mbs
+[Google Drive mirror](https://drive.google.com/file/d/1vmWYqs-A5nBgVj__BEaF-Np4_W6Kl2Du/view?usp=sharing) 108mbs
 
 ## Useful to know stuff
 
@@ -28,7 +28,6 @@ pip install PyQtWebEngine
 ## To-do list
 - ~~Save cookies~~
 - ~~Renovate homepage~~
-- open links in new tab
 
 ## Contributing
 If you want to help in SkillBrowser's development, be free to do so! For major changes, please open an issue first to discuss what you would like to change.
