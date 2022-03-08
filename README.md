@@ -2,15 +2,25 @@
 
 Check our website out [here!](https://johnskillanimation.wixsite.com/skillbrowser)
 
-SkillBrowser is a 100% Python based bare-bones, secure browser! It's still in development and there are some features that need to be added!
+## NEWS!!!!!
+
+Skillbrowser is now coded in C# as of version 3 and can run on both 32x and 64x systems!!!
+
+## What is skill browser?
+
+SkillBrowser is a 100% bare-bones, secure browser! It's still in development and there are some features that need to be added!
 
 ## Installation
 
-To install SkillBrowser, click one of the mirrors! 
+To install SkillBrowser Version 3 (C#), click one of the mirrors!
+
+[Google Drive Mirror](https://drive.google.com/file/d/10awR26s5NW9GhJDiyF-Cb7k0wzeMJAHr/view?usp=sharing) 73MBS
+
+[MEGA.nz Mirror](https://mega.nz/file/VdwA2SDa#MzvE1gTeveaWZYOq_LzTj5FbfJJLCjRS3Ghyh1p2_8Q)
+
+To install SkillBrowser Version 2 (Python), click one of the mirrors! 
 
 [MEGA.nz mirror](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4) 108mbs
-
-[OneDrive mirror](https://1drv.ms/u/s!AhsvlghXEQaAab_0U3flxRo884I?e=69SmZk) 108mbs
 
 [Google Drive mirror](https://drive.google.com/file/d/1vmWYqs-A5nBgVj__BEaF-Np4_W6Kl2Du/view?usp=sharing) 108mbs
 
