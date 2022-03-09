@@ -27,8 +27,10 @@ To install SkillBrowser Version 2 (Python), click one of the mirrors!
 
 ## Useful to know stuff
 
-1) To add a new tab, double click next to your current tab
-2) Use _precise_ links in the url bar. For example, you don't wirte `google.com`. Instead, you write `https://google.com`
+1) To add a new tab, double click next to your current tab (v2 only)
+2) Use _precise_ links in the url bar. For example, you don't write `google.com`. Instead, you write `https://google.com`(v2 only)
+3) V3 doesn't have tabs, but it makes up for that in speed and low RAM usage
+4) Use _links generally_ in V3 like `google.com` or `youtube.com` NOT `google` or `youtube`
 
 ## Source Code usage
 
