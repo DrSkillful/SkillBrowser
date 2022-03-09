@@ -16,7 +16,7 @@ To install SkillBrowser Version 3 (C#), click one of the mirrors!
 
 [Google Drive Mirror](https://drive.google.com/file/d/10awR26s5NW9GhJDiyF-Cb7k0wzeMJAHr/view?usp=sharing) 73MBS
 
-[MEGA.nz Mirror](https://mega.nz/file/VdwA2SDa#MzvE1gTeveaWZYOq_LzTj5FbfJJLCjRS3Ghyh1p2_8Q)
+[MEGA.nz Mirror](https://mega.nz/file/VdwA2SDa#MzvE1gTeveaWZYOq_LzTj5FbfJJLCjRS3Ghyh1p2_8Q) 73 MBS
 
 To install SkillBrowser Version 2 (Python), click one of the mirrors! 
 
