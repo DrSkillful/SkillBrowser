@@ -10,6 +10,12 @@ Skillbrowser is now coded in C# as of version 3 and can run on both 32x and 64x 
 
 SkillBrowser is a 100% bare-bones, secure browser! It's still in development and there are some features that need to be added!
 
+## BEFORE INSTALLING (IMPORTANT!)
+
+To run V3 you need .NET Framework v4.0. You can install it here: https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40
+
+To run V2 you need python v3.7 (can't run on windows 7 and below). Install here: https://www.python.org/downloads/release/python-370/
+
 ## Installation
 
 To install SkillBrowser Version 3 (C#), click one of the mirrors!
@@ -23,7 +29,6 @@ To install SkillBrowser Version 2 (Python), click one of the mirrors!
 [MEGA.nz mirror](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4) 108mbs
 
 [Google Drive mirror](https://drive.google.com/file/d/1vmWYqs-A5nBgVj__BEaF-Np4_W6Kl2Du/view?usp=sharing) 108mbs
-
 
 ## Useful to know stuff
 
