@@ -20,15 +20,11 @@ To run V2 you need python v3.7 (can't run on windows 7 and below). Install here:
 
 To install SkillBrowser Version 3 (C#), click one of the mirrors!
 
-[Google Drive Mirror](https://drive.google.com/file/d/10awR26s5NW9GhJDiyF-Cb7k0wzeMJAHr/view?usp=sharing) 73MBS
-
 [MEGA.nz Mirror](https://mega.nz/file/VdwA2SDa#MzvE1gTeveaWZYOq_LzTj5FbfJJLCjRS3Ghyh1p2_8Q) 73 MBS
 
 To install SkillBrowser Version 2 (Python), click one of the mirrors! 
 
 [MEGA.nz mirror](https://mega.nz/file/0FJ3nSYR#4U0ZZmET-bC07qSIUYjCJR-FnVKJnNY8hbL-D-Mukd4) 108mbs
-
-[Google Drive mirror](https://drive.google.com/file/d/1vmWYqs-A5nBgVj__BEaF-Np4_W6Kl2Du/view?usp=sharing) 108mbs
 
 ## Useful to know stuff
 
